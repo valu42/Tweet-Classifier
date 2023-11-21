@@ -1,12 +1,11 @@
 # Tweet-Classifier
-This repository is of a practice ML project. The is was to classify the tone of a tweet (negative, neutral, positive) based on the text.
+This repository is of a practice ML project. The task is to classify the tone of a tweet (negative, neutral, positive) based on the text.
 
 # Background
-This project is to learn to implement
-deep learning projects and how to use JAX. I don't have much experience with deep learning so this uses quite naive idea but it works quite okay.
+The goal of the project is to learn to implement deep learning projects and to use JAX. I don't have much experience with deep learning so this uses quite naive ideas but it works quite okay.
 
 # Data
-The dataset is from [kaggle](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset) and the dataset has 162980 unique tweet-sentiment pair. The tweets are strings of at
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset) and the dataset has 162980 unique tweet-sentiment pair. The tweets are strings of at
 most 140 characters and the sentiment is an integer from -1 to 1 (-1: negative, 0: neutral, 1: positive).
 
 # Methodology
